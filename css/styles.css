@@ -1,0 +1,48 @@
+.title {
+  color: white;
+  font-family: sans-serif;
+  margin: 10px;
+  padding: 10px;
+  background-color:pink;
+  max-width: 25%;
+}
+
+.columns {
+  color: black;
+  font-family: sans-serif;
+  }
+
+.before {
+  max-width: 25%;
+  float: left;
+  background-color: lightblue;
+  margin: 10px;
+  padding: 10px;
+}
+
+.during {
+  max-width: 25%;
+  float: left;
+  background-color: lightblue;
+  margin: 10px;
+  padding: 10px
+
+}
+
+.after {
+  max-width: 25%;
+  float: left;
+  background-color: lightblue;
+  margin: 10px;
+  padding: 10px;
+}
+
+img {
+  max-width: 100%;
+  float: left;
+  padding-bottom: 20px;
+}
+
+p {
+  font-family: monospace;
+}
